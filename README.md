@@ -27,23 +27,36 @@ git clone https://github.com/joschonarth/projeto-python-covid
 ```
 
 
-Resultados
+## Resultados
+
 A seguir estão os resultados visuais obtidos a partir da análise dos dados de COVID-19. Estes gráficos ajudam a compreender a evolução da pandemia e as previsões para o futuro.
 
-Casos confirmados no Brasil
+### Casos confirmados no Brasil
 Este gráfico mostra a evolução dos casos confirmados de COVID-19 no Brasil ao longo do tempo.
 
-Novos casos por dia
+![Plot](assets/casos-confirmados.png)
+
+### Novos casos por dia
 Visualiza a quantidade de novos casos diários de COVID-19, destacando as variações diárias.
 
-Mortes por COVID-19 no Brasil
+![Plot](assets/novos-casos-por-dia.png)
+
+### Mortes por COVID-19 no Brasil
 Mostra o número total de mortes registradas no Brasil ao longo do período de análise.
 
-Taxa de crescimento de casos confirmados no Brasil
+![Plot](assets/mortes.png)
+
+### Taxa de crescimento de casos confirmados no Brasil
 Ilustra a taxa de crescimento diário dos casos confirmados de COVID-19, oferecendo uma visão sobre a aceleração ou desaceleração da pandemia.
 
-Previsão de casos confirmados no Brasil para os próximos 30 dias
+![Plot](assets/taxa-de-crescimento.png)
+
+### Previsão de casos confirmados no Brasil para os próximos 30 dias
 Projeção dos casos confirmados de COVID-19 no Brasil para os próximos 30 dias, utilizando modelos preditivos de séries temporais.
 
-Predições de casos confirmados no Brasil
+![Plot](assets/previsao-de-casos.png)
+
+### Predições de casos confirmados no Brasil
 Predições dos casos confirmados com base em diferentes abordagens de Machine Learning.
+
+![Plot](assets/predicao-de-casos.png)
