@@ -19,13 +19,6 @@ Este projeto utiliza **Python** e **Machine Learning** para criar modelos que pr
 - Treinamento de modelos preditivos utilizando algoritmos de Machine Learning
 - Visualização gráfica das previsões
 
-## Como Executar o Projeto
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/joschonarth/projeto-python-covid
-```
-
 ## Resultados
 
 A seguir estão os resultados visuais obtidos a partir da análise dos dados de COVID-19. Estes gráficos ajudam a compreender a evolução da pandemia e as previsões para o futuro.
